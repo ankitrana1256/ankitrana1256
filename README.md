@@ -7,9 +7,14 @@
 
 - 📫 How to reach me **ankitrana5000@gmail.com**
 
+- 📄 Know about my experiences [https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf](https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf)
+
+- ⚡ Fun fact **I think I am a quick learner**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ankitrana_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitrana_09" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ankitrana_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ankitrana_09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
