@@ -1,4 +1,4 @@
-<center><img align="center" src="programmer.png"></center>
+<h1 align="left"><img src="programmer.png"></h1>
 <h1 align="center">Hi 👋, I'm Ankit Rana</h1>
 <h3 align="center">A young and passionate geek with a creative mind.</h3>
 
