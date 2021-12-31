@@ -1,4 +1,4 @@
-<h1 align="center"><img src="programmer.png"></h1>
+<h1 align="center"><img src="http://indomet.co/gallery_gen/7aecd3ba286197fec4d6fb3662db7afd_anim.gif"></h1>
 <h1 align="center">Hi 👋, I'm Ankit Rana</h1>
 <h3 align="center">A young and passionate geek with a creative mind.</h3>
 
