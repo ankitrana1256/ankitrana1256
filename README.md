@@ -28,8 +28,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrana1256&hide=jupiter_notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrana1256&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<hr height="2px">
+<br>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ankitrana_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitrana_09" height="50" width="50" /></a>
