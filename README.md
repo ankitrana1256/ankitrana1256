@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit Rana</h1>
 
-<h1 align="center"><img src="http://indomet.co/gallery_gen/7aecd3ba286197fec4d6fb3662db7afd_anim.gif" height="300px" width="450px"></h1>
+<h1 align="center">Yo</h1>
 
+<img align="right" src="http://indomet.co/gallery_gen/7aecd3ba286197fec4d6fb3662db7afd_anim.gif" height="300px" width="450px">
 <h1 align="left">Details</h1>
 
 - 🌱 I’m currently working on **Flutter Development and Computer Vision**
