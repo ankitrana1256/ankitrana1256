@@ -21,14 +21,10 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrana1256&show_icons=true&locale=en&layout=compact" alt="7sakshi7" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrana1256&show_icons=true&locale=en&layout=compact" alt="7sakshi7" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankitrana1256&show_icons=true&locale=en" alt="7sakshi7" /></p> -->
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankitrana1256&show_icons=true&locale=en" alt="7sakshi7" /></p>
 
-<p>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrana1256&hide=jupiter_notebook&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrana1256&theme=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/ankitrana_09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankitrana_09" height="50" width="50" /></a>
