@@ -2,6 +2,8 @@
 
 <h1 align="left">Details</h1>
 <img align="right" src="http://indomet.co/gallery_gen/7aecd3ba286197fec4d6fb3662db7afd_anim.gif" height="250px" width="450px">
+
+
 - 🌱 I’m currently working on **Flutter Development**
 
 - 📫 I’m currently learning **React.js and Computer Vision**
