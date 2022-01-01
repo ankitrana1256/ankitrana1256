@@ -8,7 +8,7 @@
 
 - 📫 I’m currently learning **React.js and Computer Vision**
 
-- 👯 I’m looking to collaborate on Open Source
+- 👯 I’m looking to collaborate on **Open Source**
 
 - 📄 Member of **Google Developer Student Club** 
 
