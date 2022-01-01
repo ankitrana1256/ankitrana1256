@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf](https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf)
 
 - ⚡ Fun fact **I believe in Miracles**
-
+<hr>
 
 ## &#x1f4c8; My GitHub Stats
 
