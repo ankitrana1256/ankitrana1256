@@ -21,9 +21,13 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrana1256&hide=jupiter_notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitrana1256&show_icons=true&locale=en&layout=compact" alt="7sakshi7" /></p>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankitrana1256&show_icons=true&locale=en" alt="7sakshi7" /></p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrana1256&hide=jupiter_notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrana1256&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrana1256&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <hr height="2px">
 <h3 align="left">Connect with me:</h3>
