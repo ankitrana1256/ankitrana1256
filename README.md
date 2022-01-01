@@ -3,7 +3,8 @@
 
 <h1 align="center"><img src="http://indomet.co/gallery_gen/7aecd3ba286197fec4d6fb3662db7afd_anim.gif" height="300px" width="450px"></h1>
 
-<h1 align="left">Some Information</h1>
+<h1 align="left">Details</h1>
+
 - 🌱 I’m currently learning **Flutter Development and Computer Vision**
 
 - 📄 I am doing Btech from **Maharishi Markandeshwar University, Mullana, Ambala**
@@ -13,7 +14,7 @@
 - 📫 How to reach me **ankitrana5000@gmail.com**
 
 - ⚡ Fun fact **'I believe in Miracles'**
-<hr height="2px">
+
 <h3 align="left">My GitHub Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrana1256&hide=jupiter_notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
