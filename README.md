@@ -5,7 +5,9 @@
 
 <h1 align="left">Details</h1>
 
-- 🌱 I’m currently learning **Flutter Development and Computer Vision**
+- 🌱 I’m currently working on **Flutter Development and Computer Vision**
+
+- 📫 I’m currently learning **React js**
 
 - 📄 I am doing Btech from **Maharishi Markandeshwar University, Mullana, Ambala**
 
