@@ -5,6 +5,8 @@
 
 - 📄 I am doing Btech from **Maharishi Markandeshwar University, Mullana, Ambala**
 
+- 📄 Member of **Google Developer Student Club** 
+
 - 📫 How to reach me **ankitrana5000@gmail.com**
 
 - ⚡ Fun fact **'I believe in Miracles'**
