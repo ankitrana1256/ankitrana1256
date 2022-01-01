@@ -7,9 +7,9 @@
 
 - 📫 How to reach me **ankitrana5000@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf](https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf)
+- 📄 I am currently doing Btech from **Maharishi Markandeshwar University, Mullana, Ambala**
 
-- ⚡ Fun fact **I believe in Miracles**
+- ⚡ Fun fact **'I believe in Miracles'**
 <hr height="2px">
 <h3 align="left">My GitHub Stats:</h3>
 
