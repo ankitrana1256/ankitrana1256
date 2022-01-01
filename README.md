@@ -1,6 +1,5 @@
 <h1 align="center"><img src="http://indomet.co/gallery_gen/7aecd3ba286197fec4d6fb3662db7afd_anim.gif" height="300px" width="450px"></h1>
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit</h1>
-<h3 align="center">A young and passionate geek with a creative mind.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -10,7 +9,7 @@
 
 - 📄 Know about my experiences [https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf](https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf)
 
-- ⚡ Fun fact **I think I am a quick learner**
+- ⚡ Fun fact **I believe in Miracles**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
