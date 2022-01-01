@@ -10,9 +10,8 @@
 - 📄 Know about my experiences [https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf](https://github.com/ankitrana1256/ankitrana1256/blob/main/Ankit.pdf)
 
 - ⚡ Fun fact **I believe in Miracles**
-<hr>
 
-## &#x1f4c8; My GitHub Stats
+My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrana1256&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
