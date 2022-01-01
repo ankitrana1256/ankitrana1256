@@ -1,13 +1,11 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankit Rana</h1>
-
+<br>
 <img align="right" src="http://indomet.co/gallery_gen/7aecd3ba286197fec4d6fb3662db7afd_anim.gif" height="300px" width="450px">
 <h1 align="left">Details</h1>
 
 - 🌱 I’m currently working on **Flutter Development**
 
 - 📫 I’m currently learning **React.js and Computer Vision**
-
-- 📄 I am doing Btech from **Maharishi Markandeshwar University, Ambala**
 
 - 👯 I’m looking to collaborate on Open Source
 
