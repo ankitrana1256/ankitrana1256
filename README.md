@@ -14,7 +14,7 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrana1256&hide=jupiter_notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<hr height="2px">
+<br>
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitrana1256&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr height="2px">
